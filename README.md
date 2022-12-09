@@ -1,5 +1,5 @@
 # bro-exchange
-This package contains tools for retrieving data from or sending data to the Dutch National Key Registry of the Subsurface (Basis Registratie Ondergrond). 
+This package contains tools for retrieving data from or sending data to the Dutch National Key Registry of the Subsurface (Basis Registratie Ondergrond). It supports the registrations GMN, GMW and GLD.
  
 # Installation
  
